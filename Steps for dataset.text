@@ -1,0 +1,18 @@
+Step 1:
+Create folder to save html files
+
+Step 2:
+
+Define a function that scrapes and returns it
+
+Step 3:
+Define a function to save file of the scrapped webpage to a directory
+
+Step 4:
+Define a URL list variable
+
+Step 5:
+Define a function which takes the URL List and RUN Step 2 and step 3 for each URL
+
+Step 6:
+Check if you have 10 different HTML files

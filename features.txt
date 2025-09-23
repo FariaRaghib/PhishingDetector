@@ -1,0 +1,15 @@
+has_title / length_of_title → Legitimate sites almost always have a meaningful title; phishing sites sometimes forget or use very short/odd titles.
+
+has_input, has_button, has_submit → Phishing sites usually want you to enter data (username, password, email). Input fields are a red flag.
+
+has_password / has_email_input → Especially important! These inputs show the page is asking for credentials. A legitimate informational site may not need this.
+
+has_hidden_element → Hidden fields can be used by attackers to secretly capture data.
+
+number_of_images, number_of_buttons, number_of_paragraph → Phishing pages are often visually simple (fewer images, text, etc.) compared to real professional sites.
+
+number_of_href, has_link → Links are suspicious if too few or too many, or if they look fake.
+
+has_audio, has_video → Rare in phishing pages, but common in real content-heavy sites.
+
+number_of_script → Too many scripts can mean suspicious behavior (keyloggers, redirects).
